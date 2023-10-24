@@ -195,7 +195,7 @@ git rese HEAD~1 => HEAD 1 is our latest commit
 ``` 
 #### Case 3 : Commited changes (for many commits)
 ```
-git reset<-commit hash->
+git reset<-commit hash-> => To reset more  commit
 
 git reset --hard <-commit hash-> => Chnage in VS code too
 ```
@@ -208,4 +208,8 @@ git log
 and q for quit
 ```
 
+### Fork
 
+A fork is a new repository that shares code and visibility settings with the originak "upstream repository"
+
+Fork is rough copy
