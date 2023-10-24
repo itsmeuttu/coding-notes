@@ -182,4 +182,30 @@ git branch -d <branch name > (to delete branch)
 
  An event that takes place when git is unable to automatically resolve differences in code between two commits.
  
- 
+ ### Undoing Chnages
+
+#### Case 1 : staged changes
+```
+git reset <-file name->
+git reset
+```
+#### Case 2 : Commited changes (for one commit)
+```
+git rese HEAD~1 => HEAD 1 is our latest commit
+``` 
+#### Case 3 : Commited changes (for many commits)
+```
+git reset<-commit hash->
+
+git reset --hard <-commit hash-> => Chnage in VS code too
+```
+
+To see all commit 
+use
+```
+git log
+
+and q for quit
+```
+
+
