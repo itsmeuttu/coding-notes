@@ -11,8 +11,9 @@
     b. Ensure that the target system is set to "UEFI (non CSM)."
     
 4.  In Rufus, select the Linux ISO file you want to use as the bootable operating system in the "Boot Selection" or "Bootable Disk Image" section.  
-    ![ee7a0a8af630496f91769e1fbc9b8a27.png](../../_resources/ee7a0a8af630496f91769e1fbc9b8a27.png)
-    
+![Alt text](https://drive.google.com/file/d/1sRl0B5DgEkEtLiRJGd5p4mpLN908AZWY/view?usp=sharing)
+
+
 
 * * *
 
@@ -67,4 +68,5 @@ This is a sample partition scheme for a 500GB storage.2.
 * * *
 
 Here is the picture  
-![cc7e9d6d0df732526cb3be14de861528.png](../../_resources/cc7e9d6d0df732526cb3be14de861528.png)
+![Alt text](https://drive.google.com/file/d/1_yT2LN0Z_phV-qYwL7zFsBDpNWdpBrMC/view?usp=drive_link)
+    
