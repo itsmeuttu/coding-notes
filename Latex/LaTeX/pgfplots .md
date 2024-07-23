@@ -75,4 +75,4 @@ Please note that not all options listed above need to be used at once. You can s
 
 Remember to replace **`value`**, **`list of positions`**, **`list of labels`**, **`list of entries`**, and **`options`** with appropriate values or settings according to your data and preferences.
 
-[Some Useful graph](pgfplots%206be7281d3eaa4916bc4afe569a408000/Some%20Useful%20graph%20d4b023464e104fa48ea9ef105f5facfa.md)
+[Some Useful graph](<pgfplots/Some Useful graph .md>)

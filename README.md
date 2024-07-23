@@ -2,7 +2,9 @@
 
 In this repository, you can access the following programming notes.
 
-- ### [Python](Python/README.md)
+
+- ### [Python ](<Python /README.md>)
+  
 
 - ### [Git and GitHub](<Git and Github/README.md>)
 
