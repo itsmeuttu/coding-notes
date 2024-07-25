@@ -18,7 +18,7 @@ cd your-repository
 Ensure that you have the latest changes by pulling from the remote repository:
 
 ```bash
-git pull origin master  # Replace 'master' with the name of your branch if it's different
+git pull origin main # Replace 'main' with the name of your branch if it's different
 
 ```
 

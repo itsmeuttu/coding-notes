@@ -29,7 +29,7 @@ This is a sample partition scheme for a 500GB storage.2.
 
 ==Location:== Beginning of the space
 
-==Use as==: EFI System Partition
+==Use as==: VFAT
 
 ### 2\. Swap
 
@@ -66,6 +66,8 @@ This is a sample partition scheme for a 500GB storage.2.
 ==Mount Point==: /home
 
 * * *
+
+**Note** There is no new of Type of partition and location in 24.04 and one big thing no for /boot you dont have efi so you need to choose **VFAT** and /boot 
 
 Here is the picture  
 ![Alt text](https://cdn.discordapp.com/attachments/1170953274384453702/1171086290125602847/https3A2F2Fprod-files-secure.png?ex=655b6619&is=6548f119&hm=b8e30bf96035e940a625c9d1ea22df9f6184178ab72ed777bf5eda107d2adc95&)
