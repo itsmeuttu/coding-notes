@@ -52,3 +52,6 @@ This should launch the application. If you want to create a desktop entry for ea
     ```
 
 Now, you should be able to find and launch the application from your application menu.
+
+
+~
