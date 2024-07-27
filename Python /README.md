@@ -1,6 +1,4 @@
-# Python
-
-- [Pyhton Lecture Notes](<Python/Python Lecture Notes .md>)
+## Python
 
 - [Disocrd.py](<Python/Discord py.md>)
   
